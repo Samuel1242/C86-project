@@ -1,0 +1,10 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas{
+    background-image: url("BirthdayImage.jpg");
+    border-style: solid;
+}
